@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include doctype_with_chart *.css
+recursive-include doctype_with_chart *.csv
+recursive-include doctype_with_chart *.html
+recursive-include doctype_with_chart *.ico
+recursive-include doctype_with_chart *.js
+recursive-include doctype_with_chart *.json
+recursive-include doctype_with_chart *.md
+recursive-include doctype_with_chart *.png
+recursive-include doctype_with_chart *.py
+recursive-include doctype_with_chart *.svg
+recursive-include doctype_with_chart *.txt
+recursive-exclude doctype_with_chart *.pyc
