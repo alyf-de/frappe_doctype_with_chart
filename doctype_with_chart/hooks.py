@@ -16,7 +16,7 @@ app_license = "-"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/doctype_with_chart/css/doctype_with_chart.css"
-# app_include_js = "/assets/doctype_with_chart/js/doctype_with_chart.js"
+app_include_js = "/assets/doctype_with_chart/js/doctype_with_chart.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/doctype_with_chart/css/doctype_with_chart.css"
@@ -39,7 +39,7 @@ app_license = "-"
 
 # website user home page (by Role)
 # role_home_page = {
-#	"Role": "home_page"
+# 	"Role": "home_page"
 # }
 
 # Website user home page (by function)
@@ -84,7 +84,7 @@ app_license = "-"
 # 		"on_update": "method",
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
-#	}
+# 	}
 # }
 
 # Scheduled Tasks
@@ -126,4 +126,3 @@ app_license = "-"
 # override_doctype_dashboards = {
 # 	"Task": "doctype_with_chart.task.get_dashboard_data"
 # }
-
