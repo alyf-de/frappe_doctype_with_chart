@@ -11,6 +11,8 @@ app_color = "grey"
 app_email = "hallo@alyf.de"
 app_license = "-"
 
+fixtures = ["DocType With Chart"]
+
 # Includes in <head>
 # ------------------
 
